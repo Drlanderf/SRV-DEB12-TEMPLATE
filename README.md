@@ -6,13 +6,9 @@ All server template are installed with linux LVM to improve the risezable disk
 All server template have (+all default things) :
 
 	- curl
- 
 	- screen
- 
 	- htop
- 
 	- cockpit
- 
 	- SSH server
  
 #### - default hostname :change-me (can change with command line or via cockpit)
