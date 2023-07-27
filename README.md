@@ -1,1 +1,2 @@
 # SRV-DEB12-TEMPLATE
+The OVF+VMDISK : https://bit.ly/3rLZqMU
