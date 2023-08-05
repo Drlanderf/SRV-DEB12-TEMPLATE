@@ -7,3 +7,5 @@
 screen -S mc_server -p 0 -X stuff "say Server reboot in 5 minutes...^M"
 screen -S mc_server -p 0 -X stuff "say Save in progress...^M"
 screen -S mc_server -p 0 -X stuff "save-all^M"
+sleep 5m
+screen -S mc_server -p 0 -X stuff "^C"

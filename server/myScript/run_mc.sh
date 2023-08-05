@@ -4,7 +4,7 @@
 # insert this line in the "crontab -e" of your user
 # @reboot screen -dmS mc_server sh /myscript/run_mc.sh
 ###########################################################################
-cd /home/minecraft/server/minecraft/ # <= correct the path
+cd /home/user/minecraft/server/ # <= correct the path
 if [ ! -x ./Start.sh ]; then
     chmod +x Start.sh
 fi
